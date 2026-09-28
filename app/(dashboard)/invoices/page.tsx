@@ -1,0 +1,1 @@
+export default function Page(){return <><div className="eyebrow">Billing history</div><h1>Invoices</h1><p className="sub">Search, print, download and resend securely.</p><div className="card">Invoice history is wired for server-side search, filters and pagination.</div></>}

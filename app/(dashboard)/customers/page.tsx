@@ -1,0 +1,1 @@
+export default function Page(){return <><div className="eyebrow">CRM</div><h1>Customers</h1><p className="sub">Customer profiles retain purchase history without unnecessary duplication.</p><div className="card">Dealer → Customers → Invoices relationship.</div></>}
